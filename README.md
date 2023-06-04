@@ -1,3 +1,3 @@
 I code sometimes.
 
-Check out my [blog](https://samgiz.github.io/blog/).
+Check out my [blog](https://blog.samgiz.com).
